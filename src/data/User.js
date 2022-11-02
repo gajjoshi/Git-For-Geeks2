@@ -156,17 +156,16 @@ const Users = {
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
     },
-  },
-  "temp10": {
-    name: "Temp 10",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
-      portfolio: "",
-    },
+    "GajJoshi": {
+      name: "Gaj Joshi",
+      branch: "CS",
+      description: "enthusiastic | learning ;) ",
+      links: {
+        github: "https://github.com/gajjoshi",
+        instagram: "",
+        linkedin: "https://www.linkedin.com/in/gaj-joshi-877ba6228",
+        portfolio: "",
+      },
   },
 };
 export default Users;
